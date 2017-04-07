@@ -1,4 +1,3 @@
-A partir de ahora hagamos estos readme para saber que hizo el otro.
+Bueno hice el ranking de las estaciones mas visitadas, los parametros que tuve en cuenta fueron la cantidad de bicicletas que salieron y las que entraron, con esto un promedio. No hice grafico ni nada solo un dataframe.
 
--Cambie la ruta de los archivos (porque asi me funciona a mi espero que a ustedes tambien), le agregue el '../' cuando arranca
--Modifique el nombre de las columnas por el cambio de unidades en dfClimaLimpio e hice el pasaje de unidades.
+A los puntos que vayamos completando resaltemoslo con verde en el doc asi ya sabemos que esta hecho.
